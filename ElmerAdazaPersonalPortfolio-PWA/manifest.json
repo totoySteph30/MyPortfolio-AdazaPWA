@@ -1,0 +1,35 @@
+{
+  "name": "Adaza Personal Portfolio",
+  "short_name": "Adaza's Portfolio",
+  "icons": [
+    {
+      "src": "images/adazalogo.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/adazalogo.png",
+      "sizes": "90x90",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/adazalogo.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/adazalogo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white"
+}
